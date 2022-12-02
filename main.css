@@ -1,0 +1,55 @@
+.info{
+    padding:5px;
+    border:1px solid black;
+    /*position:relative;*/
+    /*width:40%;*/
+    /*z-index:1;*/
+    /*top:0;*/
+}
+.outer{
+    position: relative;
+    width: 60%;
+    margin: 10% auto auto auto;
+    padding: 10px;
+    border: 1px dotted red;
+}
+
+#outer{
+    border-radius: 10px;
+    background-image: url(images/IranNationalCard-scaled.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 500px;
+    height: 300px;
+}
+#right-side{
+    margin-top: 2.5%;
+    font-family: sans-serif Arial;
+    font-weight: bold;
+    background-color: azure;
+    width: 45%;
+}
+
+.field, .value{
+    alignment: center;
+
+}
+.field{
+    background-color: blueviolet;
+}
+.value{
+}
+body{
+    direction: rtl;
+}
+.img-top{
+    width: 70px;
+    height: 60px;
+}
+.top-row{
+    vertical-align: central;
+}
+#top-row{
+    horiz-align: center;
+
+}

@@ -1,0 +1,26 @@
+#main-body{
+    background-color: #c6e5f8;
+
+}
+#top-row{
+    background-color:#003060;
+    color:white;
+    opacity: 80%;
+
+}
+#content{
+    background-color: #055C9D;
+    opacity: 70%;
+
+}
+
+#content2{
+    background-color: #003060;
+    opacity: 80%;
+
+}
+
+.items{
+    background-color: #C85250;
+    opacity: 1000%;
+}

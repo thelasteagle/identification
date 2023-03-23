@@ -1,0 +1,22 @@
+#top-row{
+    background-color:#C85250;
+    color:white;
+    opacity: 100%;
+
+}
+#content{
+    background-color: #E7625F;
+    opacity: 90%;
+
+}
+
+#content2{
+    background-color: #C85250;
+    opacity: 110%;
+
+}
+
+.items{
+    background-color: #73c748;
+    opacity: 90%;
+}

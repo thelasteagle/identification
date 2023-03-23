@@ -1,0 +1,21 @@
+#top-row{
+    background-color:#013A20;
+    color:white;
+    opacity: 80%;
+
+}
+#content{
+    background-color: #478C5C;
+    opacity: 70%;
+
+}
+
+#content2{
+    background-color: #013A20;
+    opacity: 80%;
+
+}
+.items{
+    background-color: #C85250;
+    opacity: 90%;
+}

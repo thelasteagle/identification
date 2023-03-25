@@ -2,3 +2,4 @@
 + present their **homework** on-line
 + motivate other classmates _to contribute_:smiley:
 [Homework site](http://alissan.freevar.com/)
+> Something new added to **README.md** file
